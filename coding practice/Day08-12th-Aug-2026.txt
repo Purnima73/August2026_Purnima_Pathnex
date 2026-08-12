@@ -1,4 +1,4 @@
-[200~#Ansible — Install Docker Compose
+#Ansible — Install Docker Compose
 - name: Install Docker Compose
   hosts: all
   become: yes
